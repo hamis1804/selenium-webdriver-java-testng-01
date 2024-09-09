@@ -39,7 +39,7 @@ public class Topic_00_Template {
     @AfterClass
 
     public void cleanBrowser() {
-       // driver.quit();
+        driver.quit();
 
     }
 }
